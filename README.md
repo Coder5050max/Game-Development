@@ -1,6 +1,6 @@
-# Red Runner
+# Red Mario
 
-Red Runner, Awesome Platformer Game.
+Red Mario, Awesome Platformer Game.
 
 
 <p align="center">
