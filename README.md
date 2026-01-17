@@ -46,6 +46,4 @@ Make sure you have the below requirements before starting:
 
 
 
-MIT @ [Bayat Games](https://github.com/BayatGames)
 
-Made with :heart: by [Bayat Games](https://github.com/BayatGames)
